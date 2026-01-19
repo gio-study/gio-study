@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <p align="center"><i>gio.study · learning quietly</i></p>
+  <i>gio.study · learning quietly</i>
 </p>
 
 <p align="center">

@@ -3,5 +3,9 @@
 </p>
 
 <p align="center">
-  <i>Quiet learning.</i>
+  <p align="center"><i>gio.study · learning quietly</i></p>
+</p>
+
+<p align="center">
+   Day <b>1</b> of consistent study
 </p>

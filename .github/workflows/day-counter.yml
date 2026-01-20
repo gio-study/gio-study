@@ -2,8 +2,11 @@ name: Daily study counter
 
 on:
   schedule:
-    - cron: '0 5 * * *'   
+    - cron: '0 5 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -29,3 +32,4 @@ jobs:
           git add README.md counter.txt
           git commit -m "Update study day counter"
           git push
+

@@ -6,4 +6,4 @@
   <i>gio.study · learning quietly</i>
 </p>
 
-<p align="center">Day <b>200</b> of consistent study</p>
+<p align="center">Day <b>201</b> of consistent study</p>
